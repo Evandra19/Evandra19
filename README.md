@@ -7,7 +7,7 @@
 ### 🚀 Membuat Konten Tentang Pemrograman & Teknologi
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=evandraPratama&label=Profile%20views&color=blueviolet&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Evandra19&label=Profile%20views&color=blueviolet&style=flat" alt="profile views" />
   <img src="https://img.shields.io/badge/Focus-Web%20Development-blue" />
   <img src="https.shields.io/badge/Lives-Indonesia-success" />
   <img src="https://img.shields.io/badge/Status-Available%20for%20Collaboration-brightgreen" />
@@ -59,7 +59,7 @@ const evandra = {
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Evandra19&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evandraPratama&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Evandra19&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 
 <div align="center">
